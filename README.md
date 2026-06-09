@@ -24,7 +24,6 @@ This project provides an interactive dashboard built in **Power BI** to visualiz
 4. Explore the pages to understand the supply chain metrics.
 
 ## 🖼 Dashboard Previews
-*(Optional: You can keep the images in the repo and display them here)*
 ![Dashboard Preview 1](supply%20chain%20page%201.png)
 ![Dashboard Preview 2](supply%20chain%20page%202.png)
 
